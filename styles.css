@@ -1,0 +1,35 @@
+#top{background-color: skyblue;
+position: relative;
+left:300px;
+top:10px;
+width:1030px;
+height:330px;}
+
+
+.left{background-color:skyblue;
+width:300px;
+height:100%;
+display: inline-block;
+position: relative;
+bottom:320px;}
+
+
+
+.main{background-color: rgb(182, 250, 255);
+display: inline-block;
+position:relative;
+bottom:560px;
+height:415px;
+width:1030px;
+right:5px;}
+
+
+
+
+
+
+
+hr{background-color:black;
+border-style:solid;}
+h1{color: maroon}
+h3{color: cornflowerblue;}
